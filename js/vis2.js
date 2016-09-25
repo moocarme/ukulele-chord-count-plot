@@ -18,7 +18,7 @@
       this.create_nodes = __bind(this.create_nodes, this);
       var max_amount;
       this.data = data;
-      this.width = 940;
+      this.width = 640;
       this.height = 600;
       this.tooltip = CustomTooltip("gates_tooltip", 240);
       this.center = {
